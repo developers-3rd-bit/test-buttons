@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<labelOnlyButton>
+		<label>
+			DONE
+		</label>
+	</labelOnlyButton>
+	<iconLabelHorizontallyButton>
+		<label>
+			CALL ME
+		</label>
+	</iconLabelHorizontallyButton>
+	<iconLabelVerticallyButton>
+		<label>
+			COMPUTER MIC
+		</label>
+	</iconLabelVerticallyButton>
+</data>
